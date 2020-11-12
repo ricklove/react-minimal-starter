@@ -17,3 +17,8 @@ A minimal starter for react tutorials
     - `App.tsx` is the main app entry
 - Done
     - You should end up with something identical to this repo
+
+
+## Run
+
+- `yarn start`
