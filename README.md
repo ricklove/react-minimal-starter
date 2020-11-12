@@ -15,3 +15,5 @@ A minimal starter for react tutorials
     - `index.tsx` loads react and renders the `App` component (this should not be modified)
     - `index.css` is a simple css reset to give you clean styles (this should not be modified)
     - `App.tsx` is the main app entry
+- Done
+    - You should end up with something identical to this repo
